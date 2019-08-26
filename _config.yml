@@ -77,7 +77,7 @@ sass:
 #   name: github.com
 #   url: https://ZeVonWu.github.io
 
-context: /blog
+# context: /blog
 
 author:
   name: Qi Zhanming
